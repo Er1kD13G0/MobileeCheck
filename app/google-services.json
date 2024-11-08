@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246454596818",
+    "project_id": "checkapp-60833",
+    "storage_bucket": "checkapp-60833.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246454596818:android:dbe340f0ef358d4935690b",
+        "android_client_info": {
+          "package_name": "com.example.mobileecheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGJjdXuQr6wB9gWkDLkmn46dkJO9wzYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
